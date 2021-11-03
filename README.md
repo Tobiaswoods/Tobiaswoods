@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tobiaswoods
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning about c#
+- 💞️ I’m collaborating on a easy Idle game :)
